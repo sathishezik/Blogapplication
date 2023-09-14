@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Introduction to React",
+      "author": "John Doe",
+      "date": "2023-09-13",
+      "content": "React is a JavaScript library for building user interfaces. It's maintained by Facebook and a community of individual developers and companies. React can be used to build single-page applications (SPAs) and mobile applications, and it's known for its component-based architecture and virtual DOM.",
+      "comment": "df"
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with Node.js",
+      "author": "Jane Smith",
+      "date": "2023-09-14",
+      "content": "Node.js is a runtime environment that allows you to run JavaScript code on the server-side. It's built on the V8 JavaScript engine and is known for its non-blocking I/O and event-driven architecture.",
+      "comment": "dssdssd"
+    },
+    {
+      "id": 3,
+      "title": "The Power of CSS Grid Layout",
+      "author": "Alice Johnson",
+      "date": "2023-09-15",
+      "content": "CSS Grid Layout is a powerful layout system for designing web pages. It allows you to create complex grid-based layouts with ease, making it a valuable tool for web designers and developers."
+    },
+    {
+      "id": 4,
+      "title": "Building RESTful APIs with Express.js",
+      "author": "Bob Wilson",
+      "date": "2023-09-16",
+      "content": "Express.js is a popular web application framework for Node.js. It simplifies the process of building RESTful APIs by providing a set of powerful features and middleware for handling routes, requests, and responses."
+    },
+    {
+      "id": 5,
+      "title": "Python vs. JavaScript: A Comparison",
+      "author": "Eva Brown",
+      "date": "2023-09-17",
+      "content": "Python and JavaScript are two widely used programming languages, each with its own strengths and use cases. In this article, we compare the two languages in terms of syntax, performance, and application domains."
+    },
+    {
+      "id": 6,
+      "title": "Web Security Best Practices",
+      "author": "David Smith",
+      "date": "2023-09-18",
+      "content": "Web security is a critical aspect of web development. This article covers best practices for securing web applications, including data validation, authentication, and protection against common vulnerabilities."
+    },
+    {
+      "id": 7,
+      "title": "Responsive Web Design Principles",
+      "author": "Emily Davis",
+      "date": "2023-09-19",
+      "content": "Responsive web design is essential for creating websites that adapt to different screen sizes and devices. Learn about key principles and techniques for building responsive web layouts."
+    },
+    {
+      "id": 8,
+      "title": "Diving into Machine Learning with Python",
+      "author": "Michael Johnson",
+      "date": "2023-09-20",
+      "content": "Machine learning is a subfield of artificial intelligence that involves training computers to learn from data and make predictions. Python is a popular language for machine learning, thanks to libraries like TensorFlow and scikit-learn."
+    }
+  ],
+  "register": [
+    {
+      "name": "sathish",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "saga",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "michael",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "admin",
+      "password": "admin",
+      "id": 7
+    }
+  ]
+}
